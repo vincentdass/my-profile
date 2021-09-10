@@ -441,6 +441,42 @@
          "authors": [
             "Viktor E Frankl"
          ]
+      },
+      {
+         "name": "Crossfire",
+         "authors": [
+            "Andy McNab"
+         ]
+      },
+      {
+         "name": "Screen Burn",
+         "authors": [
+            "Charlie Brooker"
+         ]
+      },
+      {
+         "name": "Tales of the Greek Heroes (Puffin Classics)",
+         "authors": [
+            "Roger Lancelyn Green"
+         ]
+      },
+      {
+         "name": "Haunted",
+         "authors": [
+            "Meg Cabot"
+         ]
+      },
+      {
+         "name": "The Miracle Worker",
+         "authors": [
+            "William Gibson"
+         ]
+      },
+      {
+         "name": "Schrödinger's Kittens and the Search for Reality",
+         "authors": [
+            "John Gribbin"
+         ]
       }
    ]
 }
